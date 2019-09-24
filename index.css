@@ -1,0 +1,28 @@
+body {
+  margin: 0 198px 0 198px;
+}
+
+body .superbody {
+  margin: 55px;
+}
+
+body p {
+  font-size: 16px;
+  border-right: 100px;
+}
+
+body .first {
+  width: 900px;
+}
+
+body .underline {
+  text-decoration: line-through;
+}
+
+body .line {
+  display: block;
+  height: 1px;
+  border-top: 1px solid lightgray;
+  margin: 1em 0;
+}
+/*# sourceMappingURL=index.css.map */
